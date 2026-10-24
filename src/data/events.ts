@@ -548,4 +548,79 @@ Walk in, play, and level up your fest.`,
     highlights: ["Fun games and quiz", "PS4 and VR gaming", "Soapy football", "Stalls all three days"],
     coordinators: [{ name: "Raj Aryan" }, { name: "Aashish Yadav" }],
   },
+  {
+    id: "gaming-event-2026",
+    title: "Gaming Event 2026",
+    summary:
+      "Play popular PS4 and PS5 titles, battle with friends in multiplayer games, and experience immersive VR gaming.",
+    description: `🎮 GAMING EVENT 2026 🕹️
+
+Get ready for an exciting gaming experience with PlayStation games, multiplayer battles, and immersive VR gaming! 🔥
+
+📅 DATE: 24 October 2026
+⏰ TIME: 11:00 AM – 6:00 PM
+📍 VENUE: Room 302
+🎮 SLOT DURATION: 30 minutes
+🍽️ LUNCH BREAK: 1:00 PM – 2:00 PM
+
+💰 ENTRY FEES
+🎮 PS4 — ₹50 per person (Options 1 and 3)
+🎮 PS5 — ₹60 per person (Option 2)
+🥽 VR — ₹70 per person (Option 3; limited games)
+
+🔥 CHOOSE FROM 3 GAMING OPTIONS!
+
+🎮 OPTION 1 — PS4
+God of War Ragnarök, GTA V, Spider-Man: Miles Morales, Ghost of Tsushima, WWE 2K23, WWE 2K25, and more!
+
+🎮 OPTION 2 — PS5
+Black Myth: Wukong, Ghost of Yōtei, Spider-Man 2, GTA V, and EA Sports FC 24!
+
+🥽 OPTION 3 — PS4 + VR
+God of War, The Last of Us Part II, Mortal Kombat, Cricket 19, and exciting VR games!
+
+📌 IMPORTANT RULES
+• Arrive at least 10 minutes before your booked slot.
+• If you have any doubts, verify game availability before making payment.
+• Handle all gaming equipment responsibly.
+• Any damage to gaming equipment or venue property must be paid for by the responsible player(s).
+• For supported multiplayer games, only one participant needs to book a slot for the entire group. Multiplayer play depends on game support and the available setup.
+• Late arrivals or missed slots may be released to other participants.
+• If you have issues completing the registration form on a mobile phone, use a laptop or desktop.
+
+🔗 COMPLETE GAME LIST & REGISTRATION
+https://script.google.com/a/macros/iiitt.ac.in/s/AKfycbwy4ygqSF9_noFjT8HSS-4DqLVb4p84Lnd0dsPp58OGSDTxEdkAozQku4hrplnERd7wQw/exec
+
+Pick your game, book your slot, and get ready to play! 🔥`,
+    category: "Fun Zone",
+    participation: "Individual or Team",
+    duration: "30-minute slots",
+    venue: "Room 302",
+    eligibility: "Open to participants; multiplayer groups may book one slot where supported",
+    fee: "PS4: ₹50/person · PS5: ₹60/person · VR: ₹70/person",
+    registrationUrl:
+      "https://script.google.com/a/macros/iiitt.ac.in/s/AKfycbwy4ygqSF9_noFjT8HSS-4DqLVb4p84Lnd0dsPp58OGSDTxEdkAozQku4hrplnERd7wQw/exec",
+    schedule: [
+      { day: 2, time: "11:00 AM – 1:00 PM", title: "Gaming sessions", venue: "Room 302" },
+      { day: 2, time: "1:00 PM – 2:00 PM", title: "Lunch break", venue: "Room 302" },
+      { day: 2, time: "2:00 PM – 6:00 PM", title: "Gaming sessions", venue: "Room 302" },
+    ],
+    highlights: [
+      "PS4 gaming — ₹50 per person",
+      "PS5 gaming — ₹60 per person",
+      "VR gaming — ₹70 per person; limited games",
+      "30-minute booking slots",
+      "Multiplayer gaming where supported",
+      "Three gaming options with popular titles",
+    ],
+    rules: [
+      "Arrive at least 10 minutes before the booked slot.",
+      "Verify game availability before payment if unsure.",
+      "Handle gaming equipment responsibly.",
+      "Players responsible for damage to equipment or venue property must cover the cost.",
+      "For supported multiplayer games, one participant may book for the entire group.",
+      "Late arrivals or missed slots may be released to other participants.",
+      "Use a laptop or desktop if the registration form does not work on mobile.",
+    ],
+  },
 ];
